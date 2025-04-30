@@ -1,5 +1,7 @@
 # 💫 Sobre mim:
 💻 Desenvolvedor Front-End | Foco em ReactJS
+
+
 Atuo como desenvolvedor front-end na criação de interfaces responsivas e funcionais, e atualmente estou direcionando meu foco para o ecossistema ReactJS. Tenho aprofundado meus conhecimentos em componentização, hooks, gerenciamento de estado e integração com APIs REST. Busco aplicar o que aprendo em projetos práticos, priorizando performance, escalabilidade e uma boa experiência do usuário. Estou sempre em evolução, acompanhando as melhores práticas do desenvolvimento moderno com React.
 
 ## 🌐 Redes Sociais:
